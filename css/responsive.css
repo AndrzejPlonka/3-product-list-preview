@@ -1,0 +1,16 @@
+@media screen and (min-width: 480px) and (max-width: 991px) {
+
+	.container {
+		float: left;
+	}
+	.container:nth-child(3) {
+		clear: left;
+	}
+}
+
+@media screen and (min-width: 992px) {
+
+	.container {
+		float: left;
+	}
+test
